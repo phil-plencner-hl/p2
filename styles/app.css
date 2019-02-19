@@ -1,0 +1,55 @@
+body {
+    padding: 20px;
+}
+
+/*----------------------------------------------------
+Forms
+-----------------------------------------------------*/
+label {
+    font-weight: bold;
+    display: block;
+    font-size: 1.4rem;
+}
+
+input[type='radio'], input[type='checkbox'] {
+    margin-right: 0;
+    /* Next two lines prevent misalignment with text */
+    vertical-align: middle;
+    margin-top: -3px;
+}
+
+fieldset {
+    margin-bottom: 20px;
+}
+
+input[type=text] {
+    display: block;
+    font-family: Consolas, Courier, monospace;
+}
+
+ul#chart-radios {
+    list-style: none;
+}
+
+/*----------------------------------------------------
+Books
+-----------------------------------------------------*/
+ul.albums {
+    list-style-type: none;
+    padding: 0;
+}
+
+li.album {
+    border: 1px solid silver;
+    max-width: 300px;
+    margin: 0 0 15px 0;
+    padding: 10px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.artist {
+    font-style: italic;
+}

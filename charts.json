@@ -1,0 +1,722 @@
+{
+  "0": {
+    "title" : "The Eminem Show",
+    "position" : 1,
+    "artist": "Eminem",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all1.jpg"
+  },
+  "1": {
+    "title" : "Weathered",
+    "position" : 2,
+    "artist": "Creed",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all2.jpg"
+  },
+  "2": {
+    "title" : "Nellyville",
+    "position" : 3,
+    "artist": "Nelly",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all3.jpg"
+  },
+  "3": {
+    "title" : "M!ssundaztood",
+    "position" : 4,
+    "artist": "P!nk",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all4.jpg"
+  },
+  "4": {
+    "title" : "[Hybrid Theory]",
+    "position" : 5,
+    "artist": "Linkin Park",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all5.jpg"
+  },
+  "5": {
+    "title" : "O Brother, Where Art Thou?",
+    "position" : 6,
+    "artist": "Soundtrack",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all6.jpg"
+  },
+  "6": {
+    "title" : "Silver Side Up",
+    "position" : 7,
+    "artist": "Nickelback",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all7.jpg"
+  },
+  "7": {
+    "title" : "Britney",
+    "position" : 8,
+    "artist": "Britney Spears",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all8.jpg"
+  },
+  "8": {
+    "title" : "Now 8",
+    "position" : 9,
+    "artist": "Various Artists",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all9.jpg"
+  },
+  "9": {
+    "title" : "Word Of Mouf",
+    "position" : 10,
+    "artist": "Ludacris",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/all10.jpg"
+  },
+  "10": {
+    "title" : "Get Rich Or Die Tryin'",
+    "position" : 1,
+    "artist": "50 Cent",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all1.jpg"
+  },
+  "11": {
+    "title" : "Come Away With Me",
+    "position" : 2,
+    "artist": "Norah Jones",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all2.jpg"
+  },
+  "12": {
+    "title" : "Up!",
+    "position" : 3,
+    "artist": "Shania Twain",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all3.jpg"
+  },
+  "13": {
+    "title" : "Home",
+    "position" : 4,
+    "artist": "Dixie Chicks",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all4.jpg"
+  },
+  "14": {
+    "title" : "Let Go",
+    "position" : 5,
+    "artist": "Avril Lavigne",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all5.jpg"
+  },
+  "15": {
+    "title" : "Meteora",
+    "position" : 6,
+    "artist": "Linkin Park",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all6.jpg"
+  },
+  "16": {
+    "title" : "8 Mile",
+    "position" : 7,
+    "artist": "Soundtrack",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all7.jpg"
+  },
+  "17": {
+    "title" : "Fallen",
+    "position" : 8,
+    "artist": "Evanescence",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all8.jpg"
+  },
+  "18": {
+    "title" : "Tim McGraw And The Dancehall Doctors",
+    "position" : 9,
+    "artist": "Tim McGraw",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all9.jpg"
+  },
+  "19": {
+    "title" : "Stripped",
+    "position" : 10,
+    "artist": "Christina Aguilera",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/all10.jpg"
+  },
+  "20": {
+    "title" : "Confessions",
+    "position" : 1,
+    "artist": "Usher",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all1.jpg"
+  },
+  "21": {
+    "title" : "Speakerboxxx/The Love Below",
+    "position" : 2,
+    "artist": "OutKast",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all2.jpg"
+  },
+  "22": {
+    "title" : "Closer",
+    "position" : 3,
+    "artist": "Josh Groban",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all3.jpg"
+  },
+  "23": {
+    "title" : "DIARY OF ALICIA KEYS",
+    "position" : 4,
+    "artist": "Alicia Keys",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all4.jpg"
+  },
+  "24": {
+    "title" : "Feels Like Home",
+    "position" : 5,
+    "artist": "Norah Jones",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all5.jpg"
+  },
+  "25": {
+    "title" : "Fallen",
+    "position" : 6,
+    "artist": "Evanescence",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all6.jpg"
+  },
+  "26": {
+    "title" : "Shock'n Y'All",
+    "position" : 7,
+    "artist": "Toby Keith",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all7.jpg"
+  },
+  "27": {
+    "title" : "In The Zone",
+    "position" : 8,
+    "artist": "Britney Spears",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all8.jpg"
+  },
+  "28": {
+    "title" : "The Very Best Of Sheryl Crow",
+    "position" : 9,
+    "artist": "Sheryl Crow",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all9.jpg"
+  },
+  "29": {
+    "title" : "When The Sun Goes Down",
+    "position" : 10,
+    "artist": "Kenny Chesney",
+    "chart" : "TOP BILLBOARD ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/all10.jpg"
+  },
+  "30": {
+    "title" : "The Eminem Show",
+    "position" : 1,
+    "artist": "Eminem",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb1.jpg"
+  },
+  "31": {
+    "title" : "Word Of Mouf",
+    "position" : 2,
+    "artist": "Ludacris",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb2.jpg"
+  },
+  "32": {
+    "title" : "Nellyville",
+    "position" : 3,
+    "artist": "Nelly",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb3.jpg"
+  },
+  "33": {
+    "title" : "Ashanti",
+    "position" : 4,
+    "artist": "Ashanti",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb4.jpg"
+  },
+  "34": {
+    "title" : "Stillmatic",
+    "position" : 5,
+    "artist": "Nas",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb5.jpg"
+  },
+  "35": {
+    "title" : "Pain Is Love",
+    "position" : 6,
+    "artist": "Ja Rule",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb6.jpg"
+  },
+  "36": {
+    "title" : "8701",
+    "position" : 7,
+    "artist": "Usher",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb7.jpg"
+  },
+  "37": {
+    "title" : "Invincible",
+    "position" : 8,
+    "artist": "Michael Jackson",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb8.jpg"
+  },
+  "38": {
+    "title" : "GENESIS",
+    "position" : 9,
+    "artist": "Busta Rhymes",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb9.jpg"
+  },
+  "39": {
+    "title" : "Juslisen (Just Listen)",
+    "position" : 10,
+    "artist": "Musiq",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/rb10.jpg"
+  },
+  "40": {
+    "title" : "Get Rich Or Die Tryin'",
+    "position" : 1,
+    "artist": "50 Cent",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb1.jpg"
+  },
+  "41": {
+    "title" : "Chocolate Factory",
+    "position" : 2,
+    "artist": "R. Kelly",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb2.jpg"
+  },
+  "42": {
+    "title" : "Better Dayz",
+    "position" : 3,
+    "artist": "2Pac",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb3.jpg"
+  },
+  "43": {
+    "title" : "Kings Of Crunk",
+    "position" : 4,
+    "artist": "Lil Jon & The East Side Boyz",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb4.jpg"
+  },
+  "44": {
+    "title" : "I Care 4 U",
+    "position" : 5,
+    "artist": "Aaliyah",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb5.jpg"
+  },
+  "45": {
+    "title" : "Dutty Rock",
+    "position" : 6,
+    "artist": "Sean Paul",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb6.jpg"
+  },
+  "46": {
+    "title" : "Under Construction",
+    "position" : 7,
+    "artist": "Missy \"Misdemeanor\" Elliott",
+    "chart" : "TOP R & B ALBUMS",
+    "year": "2003",
+    "cover_url" : "/images/2003/rb7.jpg"
+  },
+  "47": {
+    "title" : "Dance With My Father",
+    "position" : 8,
+    "artist": "Luther Vandross",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb8.jpg"
+  },
+  "48": {
+    "title" : "Still Ghetto",
+    "position" : 9,
+    "artist": "Jaheim",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb9.jpg"
+  },
+  "49": {
+    "title" : "God's Son",
+    "position" : 10,
+    "artist": "Nas",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/rb10.jpg"
+  },
+  "50": {
+    "title" : "Confessions",
+    "position" : 1,
+    "artist": "Usher",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb1.jpg"
+  },
+  "51": {
+    "title" : "The Diary Of Alicia Keys",
+    "position" : 2,
+    "artist": "Alicia Keys",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb2.jpg"
+  },
+  "52": {
+    "title" : "The Black Album",
+    "position" : 3,
+    "artist": "JAY-Z",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb3.jpg"
+  },
+  "53": {
+    "title" : "The College Dropout",
+    "position" : 4,
+    "artist": "Kanye West",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb4.jpg"
+  },
+  "54": {
+    "title" : "Speakerboxxx/The Love Below",
+    "position" : 5,
+    "artist": "OutKast",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb5.jpg"
+  },
+  "55": {
+    "title" : "Kamikaze",
+    "position" : 6,
+    "artist": "Twista",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb6.jpg"
+  },
+  "56": {
+    "title" : "Soulful",
+    "position" : 7,
+    "artist": "Ruben Studdard",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb7.jpg"
+  },
+  "57": {
+    "title" : "Beg For Mercy",
+    "position" : 8,
+    "artist": "G Unit",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb8.jpg"
+  },
+  "58": {
+    "title" : "Juve The Great",
+    "position" : 9,
+    "artist": "Juvenile",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb9.jpg"
+  },
+  "59": {
+    "title" : "Comin' From Where I'm From",
+    "position" : 10,
+    "artist": "Anthony Hamilton",
+    "chart" : "TOP R & B ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/rb10.jpg"
+  },
+  "60": {
+    "title" : "Scarecrow",
+    "position" : 1,
+    "artist": "Garth Brooks",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country1.jpg"
+  },
+  "61": {
+    "title" : "Drive",
+    "position" : 2,
+    "artist": "Alan Jackson",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country2.jpg"
+  },
+  "62": {
+    "title" : "Home",
+    "position" : 3,
+    "artist": "Dixie Chicks",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country3.jpg"
+  },
+  "63": {
+    "title" : "No Shoes, No Shirt, No Problems",
+    "position" : 4,
+    "artist": "Kenny Chesney",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country4.jpg"
+  },
+  "64": {
+    "title" : "Unleashed",
+    "position" : 5,
+    "artist": "Toby Keith",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country5.jpg"
+  },
+  "65": {
+    "title" : "Pull My Chain",
+    "position" : 6,
+    "artist": "Toby Keith",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country6.jpg"
+  },
+  "66": {
+    "title" : "Cry",
+    "position" : 7,
+    "artist": "Faith Hill",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country7.jpg"
+  },
+  "67": {
+    "title" : "Greatest Hits",
+    "position" : 8,
+    "artist": "Martina McBride",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country8.jpg"
+  },
+  "68": {
+    "title" : "Set This Circus Down",
+    "position" : 9,
+    "artist": "Tim McGraw",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country9.jpg"
+  },
+  "69": {
+    "title" : "The Road Less Traveled",
+    "position" : 10,
+    "artist": "George Strait",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2002",
+    "cover_url" : "/images/2002/country10.jpg"
+  },
+  "70": {
+    "title" : "Up!",
+    "position" : 1,
+    "artist": "Shania Twain",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country1.jpg"
+  },
+  "71": {
+    "title" : "Home",
+    "position" : 2,
+    "artist": "Dixie Chicks",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country2.jpg"
+  },
+  "72": {
+    "title" : "Tim McGraw And The Dancehall Doctors",
+    "position" : 3,
+    "artist": "Tim McGraw",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country3.jpg"
+  },
+  "73": {
+    "title" : "Unleashed",
+    "position" : 4,
+    "artist": "Toby Keith",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country4.jpg"
+  },
+  "74": {
+    "title" : "Cry",
+    "position" : 5,
+    "artist": "Faith Hill",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country5.jpg"
+  },
+  "75": {
+    "title" : "Greatest Hits Volume II And Some Other Stuff",
+    "position" : 6,
+    "artist": "Alan Jackson",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country6.jpg"
+  },
+  "76": {
+    "title" : "No Shoes, No Shirt, No Problems",
+    "position" : 7,
+    "artist": "Kenny Chesney",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country7.jpg"
+  },
+  "77": {
+    "title" : "Melt",
+    "position" : 8,
+    "artist": "Rascal Flatts",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country8.jpg"
+  },
+  "78": {
+    "title" : "Shock'n Y'All",
+    "position" : 9,
+    "artist": "Toby Keith",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country9.jpg"
+  },
+  "79": {
+    "title" : "American IV: The Man Comes Around",
+    "position" : 10,
+    "artist": "Johnny Cash",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2003",
+    "cover_url" : "/images/2003/country10.jpg"
+  },
+  "80": {
+    "title" : "Shock'n Y'All",
+    "position" : 1,
+    "artist": "Toby Keith",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country1.jpg"
+  },
+  "81": {
+    "title" : "When The Sun Goes Down",
+    "position" : 2,
+    "artist": "Kenny Chesney",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country2.jpg"
+  },
+  "82": {
+    "title" : "Here For The Party",
+    "position" : 3,
+    "artist": "Gretchen Wilson",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country3.jpg"
+  },
+  "83": {
+    "title" : "Live Like You Were Dying",
+    "position" : 4,
+    "artist": "Tim McGraw",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country4.jpg"
+  },
+  "84": {
+    "title" : "Horse Of A Different Color",
+    "position" : 5,
+    "artist": "Big & Rich",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country5.jpg"
+  },
+  "85": {
+    "title" : "Greatest Hits Volume II And Some Other Stuff",
+    "position" : 6,
+    "artist": "Alan Jackson",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country6.jpg"
+  },
+  "86": {
+    "title" : "Golden Road",
+    "position" : 7,
+    "artist": "Keith Urban",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country7.jpg"
+  },
+  "87": {
+    "title" : "License To Chill",
+    "position" : 8,
+    "artist": "Jimmy Buffett",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country8.jpg"
+  },
+  "88": {
+    "title" : "Mud On The Tires",
+    "position" : 9,
+    "artist": "Brad Paisley",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country9.jpg"
+  },
+  "89": {
+    "title" : "Greatest Hits Volume II",
+    "position" : 10,
+    "artist": "Alan Jackson",
+    "chart" : "TOP COUNTRY ALBUMS",
+    "year" : "2004",
+    "cover_url" : "/images/2004/country10.jpg"
+  }
+}
