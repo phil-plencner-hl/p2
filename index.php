@@ -96,7 +96,7 @@ require 'logic.php';
                     <div class='year'><?= $album['year'] ?></div>
                 </div>
                 <div class="col-sm-4 album-cover"><img src='<?= $album['cover_url'] ?>'
-                                                       alt='Cover photo for the album <?= $album['title'] ?>'></div>
+                                                       alt='Cover photo for album <?= $album['position'] ?>'></div>
             </div>
         <?php endforeach ?>
     </div>
