@@ -25,15 +25,17 @@ require 'logic.php';
 <p>Select your options below to display a particular Billboard Top Album chart.</p>
 
 <form method='POST' action='search.php'>
-    <label>Type in number of results
+    <label class='bold-label'>Type in number of results
         <input type='text'
                name='numResults'
                maxlength="2"
                size="3"
                value='<?= $numResults ?? ''; ?>'>
-        <small id="numResultsHelp" class="form-text text-muted">Number of results must be between 1 and 10.</small>
+        <small id="numResultsHelp"
+               class="x-small form-text text-muted">Number of results must be between 1 and 10.
+        </small>
     </label>
-    <label>Select Year
+    <label class='bold-label'>Select Year
         <select name='year' id='year'>
             <option value=''>Choose one...</option>
             <option value='2002' <?php if (isset($year) and $year == '2002') echo 'selected' ?>>2002</option>

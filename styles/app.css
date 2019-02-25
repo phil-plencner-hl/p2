@@ -5,7 +5,13 @@ body {
 /*----------------------------------------------------
 Forms
 -----------------------------------------------------*/
-label {
+label.bold-label {
+    font-weight: bold;
+    display: block;
+    font-size: 1.4rem;
+}
+
+legend {
     font-weight: bold;
     display: block;
     font-size: 1.4rem;
