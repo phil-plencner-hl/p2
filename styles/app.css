@@ -31,17 +31,21 @@ ul#chart-radios {
     list-style: none;
 }
 
+.btn {
+    margin-bottom: 10px;
+}
+
 /*----------------------------------------------------
-Books
+Albums
 -----------------------------------------------------*/
-ul.albums {
+div.albums {
     list-style-type: none;
     padding: 0;
 }
 
-li.album {
+div.album {
     border: 1px solid silver;
-    max-width: 300px;
+    max-width: 500px;
     margin: 0 0 15px 0;
     padding: 10px;
 }
@@ -52,4 +56,13 @@ li.album {
 
 .artist {
     font-style: italic;
+}
+
+.position {
+    font-size: xx-large;
+}
+
+.album-cover img {
+    max-width: 100px;
+    max-height: 100px;
 }

@@ -1,38 +1,41 @@
 <?php
+require 'includes/helpers.php';
+require 'AlbumList.php';
+require 'Form.php';
+
+use DWA\Form;
+use P2\AlbumList;
+
 session_start();
 
-require 'includes/helpers.php';
+$albumList = new AlbumList('charts.json');
+$form = new Form($_POST);
 
 # Get data from form request
-$numResults = $_POST['numResults'];
-$year = $_POST['year'];
-$chart = $_POST['chart'];
+$numResults = $form->get('numResults');
+$year = $form->get('year');
+$chart = $form->get('chart');
 
-# Load chart data
-$chartJson = file_get_contents('charts.json');
-$albums = json_decode($chartJson, true);
+$errors = $form->validate([
+    'numResults' => 'required|digit|min:1|max:10',
+    'year' => 'required',
+    'chart' => 'required',
+]);
 
-# Filter chart data according to search terms
-foreach ($albums as $key => $album) {
-    if ($year) {
-        $yearMatch = $year == $album['year'];
+if (!$form->hasErrors) {
+    # Load chart data
+    $albums = $albumList->getByYearAndChart($year, $chart);
+
+    # Only show the number of results selected
+    if ($numResults) {
+        $albums = array_slice($albums, 0, $numResults, true);
     }
-    if ($chart) {
-        $chartMatch = $chart == $album['chart'];
-    }
-
-    if (!$yearMatch || !$chartMatch) {
-        unset($albums[$key]);
-    }
-}
-
-# Only show the number of results selected
-if ($numResults) {
-    $albums = array_slice($albums, 0, $numResults, true);
 }
 
 # Store our data in the session
 $_SESSION['results'] = [
+    'errors' => $errors,
+    'hasErrors' => $form->hasErrors,
     'numResults' => $numResults,
     'albums' => $albums,
     'albumCount' => count($albums),

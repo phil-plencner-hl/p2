@@ -12,7 +12,8 @@
 3. *Radio buttons to indicate which chart to display*
 
 ## Class
-TBD
++ Form.php
++ AlbumList.php
 
 ## Code style divergences
 None
