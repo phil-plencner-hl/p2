@@ -28,7 +28,7 @@ class AlbumList
         foreach ($this->albums as $key => $album) {
             $match = $year == $album['year'];
             if ($match) {
-                $results[$album['position'].'-'.$album['title']] = $album;
+                $results[$album['position'] . '-' . $album['title']] = $album;
             }
         }
 
@@ -43,7 +43,7 @@ class AlbumList
         foreach ($this->albums as $key => $album) {
             $match = $chart == $album['chart'];
             if ($match) {
-                $results[$album['position'].'-'.$album['title']] = $album;
+                $results[$album['position'] . '-' . $album['title']] = $album;
             }
         }
 
@@ -56,10 +56,10 @@ class AlbumList
 
         $yearAlbums = $this->getByYear($year);
         $chartAlbums = $this->getByChart($chart);
-        $mergedAlbums = array_intersect_key($yearAlbums,$chartAlbums);
+        $mergedAlbums = array_intersect_key($yearAlbums, $chartAlbums);
 
         // Sort by Position
-        foreach ($mergedAlbums  as $key => $album) {
+        foreach ($mergedAlbums as $key => $album) {
             $results[$album['position']] = $mergedAlbums[$key];
         }
         ksort($results);

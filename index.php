@@ -93,7 +93,8 @@ require 'logic.php';
                     <div class='artist'> by <?= $album['artist'] ?></div>
                     <div class='year'><?= $album['year'] ?></div>
                 </div>
-                <div class="col-sm-4 album-cover"><img src='<?= $album['cover_url'] ?>' alt='Cover photo for the album <?= $album['title'] ?>'></div>
+                <div class="col-sm-4 album-cover"><img src='<?= $album['cover_url'] ?>'
+                                                       alt='Cover photo for the album <?= $album['title'] ?>'></div>
             </div>
         <?php endforeach ?>
     </div>
